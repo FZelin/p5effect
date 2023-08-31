@@ -9,7 +9,7 @@ let circles = [];
 let img;
 
 function preload() {
-  img = loadImage('/test.png');
+  img = loadImage('./test.png');
 }
 
 function setup() {
